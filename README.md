@@ -6,7 +6,7 @@ Juan David López Regalado
 ## Integrantes 
 - Arriaga Ayala Juan Manuel
 - Ayala Bibriezca Antonio
-- 
+
 # Objetivo
 
 ## Objetivo General
